@@ -1,0 +1,30 @@
+{
+  "en":[
+	{
+		"word": "Car",
+		"tip": "A vehicle"
+	},
+	{
+		"word": "Horse",
+		"tip": "An animal"
+	},
+	{
+		"word": "Card",
+		"tip": "A game"
+	}
+  ],
+  "de":[
+	{
+		"word": "Auto",
+		"tip": "Fahrzeug"
+	},
+	{
+		"word": "Pferd",
+		"tip": "Tier"
+	},
+	{
+		"word": "Tisch",
+		"tip": "Möbel"
+	}
+  ]
+}
